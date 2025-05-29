@@ -1,4 +1,4 @@
-readme.html for the web link to the genesis models associated with the
+README.md for the web link to the genesis models associated with the
 paper:
 
 Kotaleski JH, Plenz D, Blackwell KT
@@ -10,8 +10,7 @@ GENESIS scripts used for the simulations are available at
 
 [http://krasnow1.gmu.edu/CENlab/software.html](http://krasnow1.gmu.edu/CENlab/software.html)
 
+## Changelog
 20161219 above URL was updated.
 
----
-
-2025-05-27 – Standardized to Markdown.
+20250527 Standardized to Markdown.
